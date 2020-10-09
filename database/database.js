@@ -1,6 +1,6 @@
 const Sequilize = require("sequelize")
 
-const connection = new Sequilize('guiaperguntas', 'root', '123214741p', {
+const connection = new Sequilize('guiaperguntas', 'root', '123', {
     host: 'localhost',
     dialect: 'mysql'
 })
